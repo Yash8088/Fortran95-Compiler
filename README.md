@@ -1,0 +1,2 @@
+# 💫 About Me:
+I developed a Fortran95 compiler using C++, structured into three essential components: a lexical analyzer, a parser, and an interpreter. The lexical analyzer processes the source code to generate tokens, which the parser then organizes into a syntactic structure. The interpreter executes this structure, translating the code into executable instructions. This project demonstrates my proficiency in compiler design and C++ programming, showcasing my ability to create complex software solutions from the ground up.
